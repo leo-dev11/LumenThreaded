@@ -2,6 +2,9 @@ build/
 cmake-build-*/
 out/
 
+.cache
+.clang-format
+
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
